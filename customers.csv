@@ -1,0 +1,21 @@
+customer_id,full_name,country,job_type,monthly_transactions_eur,years_as_customer,pays_cash_often
+C0001,Marco Rossi,IR,Teacher,4000,10,True
+C0002,Giulia Bianchi,DE,Real estate agent,300,5,True
+C0003,Ahmed Khan,KP,Retired,300,1,False
+C0004,Sara Verdi,AE,Student,800,1,False
+C0005,Luca Ferrari,IT,Student,800,10,True
+C0006,Anna Russo,US,Crypto trader,300,3,True
+C0007,Ali Shah,KP,Teacher,1500,6,True
+C0008,Elena Conti,KP,Student,9000,4,True
+C0009,Paolo Greco,DE,Retired,1500,1,True
+C0010,Fatima Ali,US,Employee,9000,3,False
+C0011,Chiara Costa,KP,Crypto trader,40000,5,False
+C0012,Omar Haddad,US,Politician,1500,4,True
+C0013,Sofia Romano,FR,Retired,300,9,False
+C0014,Davide Gallo,KP,Politician,1500,7,False
+C0015,Maria Lombardi,US,Student,300,8,False
+C0016,Hassan Raza,FR,Cash business owner,800,7,False
+C0017,Laura Moretti,IT,Student,40000,8,False
+C0018,Andrea Bruno,IR,Cash business owner,9000,7,False
+C0019,Nadia Sheikh,DE,Student,1500,7,True
+C0020,Bruno Marino,IT,Self-employed,15000,9,False
